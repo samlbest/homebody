@@ -1,0 +1,30 @@
+{
+  "name": "homebody",
+  "version": "0.0.0",
+  "description": "See who's home",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "node-libnmap": "0.1.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samlbest/homebody.git"
+  },
+  "keywords": [
+    "geofence",
+    "messaging"
+  ],
+  "author": "Sam Best",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samlbest/homebody/issues"
+  },
+  "homepage": "https://github.com/samlbest/homebody"
+}
